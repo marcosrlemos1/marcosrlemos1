@@ -1,13 +1,5 @@
 ## Olá! Eu me chamo  Marcos Lemos  
 
-</div>
- 
-<br>
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rem&duration=4500&pause=1000&color=972996&center=true&width=435&separator=%3C&lines=Eu+sou+o+Alissu;%3CEstudante+de+Engenharia+de+Software;%3CDesenvolvedor+Backend;%3CDesenvolvedor+Frontend;%3CUX%2FUI+desinger;%3Cconsole.log(%22Tamo+junto%2C+men%C3%B3%22);" alt="Typing SVG" /></a> 
-</div>
-
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosrlemos1&show_icons=true&theme=dracula)
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com.br/marcosrlemos)
